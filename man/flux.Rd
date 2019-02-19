@@ -1,6 +1,6 @@
 \name{flux}
 \alias{flux}
-\title{flux: Daily Soon Solar Flux}
+\title{flux: Daily Noon Solar Flux}
 \description{
     Daily noon solar flux (10.7cm) from Sagamore Hill, Massachusetts
     (USAF monitoring station) and from Penticton, British Columbia (DRAO, NRC). 
